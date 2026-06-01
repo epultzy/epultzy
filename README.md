@@ -1,3 +1,6 @@
+# Hi there, I'm [Nama Kamu] 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=false&vCenter=false&width=435&lines=Fullstack+Developer;Open+Source+Enthusiast;Tech+Blogger)
+
 <h1 align="center">Hi there, I'm epultzy! 👋</h1>
 <h3 align="center">I am a student in MSU</h3>
 
