@@ -5,7 +5,7 @@
 <div align="center">
 
 # ⚡ Building the Future, One Line at a Time
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=Fullstack+Software+Engineer;Creative+UI%2FUX+Designer;TikTok+Content+Creator;Tech+Architect+%26+Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=Fullstack+Software+Engineer;Creative+UI%2FUX+Designer;Tech+Architect+%26+Lifelong+Learner)](https://git.io/typing-svg)
 
 ---
 
@@ -13,8 +13,7 @@
 **Passionate developer dedicated to building high-performance web applications and sharing tech vibes.**
 
 🔭 **Currently working on:** Innovative scalable solutions  
-🌱 **Deep diving into:** Advanced Backend Architecture & Cloud Native  
-🎬 **Content Creation:** Catch me on TikTok sharing my journey  
+🌱 **Deep diving into:** Advanced Backend Architecture & Cloud Native    
 💬 **Ask me about:** React, Node.js, and System Design  
 
 </div>
@@ -23,7 +22,7 @@
 
 ### 🛠 My Arsenal (Tech Stack)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,docker,aws,git,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgresql,docker,linux" />
 </p>
 
 ---
