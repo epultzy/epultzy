@@ -62,16 +62,11 @@
 
 ### 📡 Let's Connect
 <p align="center">
-<a href="https://tiktok.com/xyzcjui"><img src="https://img.shields.io/badge/tiktok-0077B5?style=for-the-badge&logo=Tiktok&logoColor=white" /></a>
+<a href="[https://tiktok.com/xyzcjui](https://www.tiktok.com/@xyzcjui?_r=1&_t=ZS-96qA1Ynh9D5)"><img src="https://img.shields.io/badge/tiktok-0077B5?style=for-the-badge&logo=Tiktok&logoColor=white" /></a>
 <a href="https://instagram.com/epultzy_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:contact@epulvip.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://epultzy.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=epultzy&label=PROFILE%20VIEWS&color=00d4ff&style=for-the-badge" />
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=100&section=footer" />
 </p>
